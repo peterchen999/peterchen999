@@ -1,16 +1,27 @@
-# github-profile-summary-cards-example
+## Hi there 👋
+- It's Peter Chen here!
+- 🌱 I’m second year graduate student in National Tsing Hua University
+- :office: Currently with the [LOGOS Lab](https://logoslab.github.io/)
+- 📫 Contact me with my business email peter.chen.devs@gmail.com
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+---
+## My Internships
+### PHISON Electronics Corp. （群聯科技）2022/7 ~ 2022/8
+Firmware & Software Engineering Intern, NAND Algorithm Team
+- solving NP-hard problems with heuristic algorithms
+- independently architected software projects with 300+ commits & 10k+ lines of python code
+- **Data Structures / Graph Algorithms / OS / Multiprocessing**
+### Moxa Inc. （四零四科技）2021/7 ~ 2021/8
+Software Engineering Intern, Industrial Network Team
+- design automatic testing & verification schemes
+- CI/CD design
+- **Testing / CI/CD / Git**
+### ITRI （工業技術研究院）2020/7 ~ 2020/8
+Software Engineering Intern, Network Application Team
+- web scrapers for Facebook and social media
+- **Selenium / Web Scraping / BeautifulSoup**
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/peterchen999/peterchen999/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/peterchen999/peterchen999/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/peterchen999/peterchen999/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/peterchen999/peterchen999/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/peterchen999/peterchen999/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
