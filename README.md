@@ -6,7 +6,7 @@
 
 ---
 ## My Internships
-### PHISON Electronics Corp. （群聯科技）2022/7 ~ 2022/8
+### PHISON Electronics Corp. （群聯電子）2022/7 ~ 2022/8
 Firmware & Software Engineering Intern, NAND Algorithm Team
 - solving NP-hard problems with heuristic algorithms
 - independently architected software projects with 300+ commits & 10k+ lines of python code
